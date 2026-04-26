@@ -1,0 +1,12 @@
+public class chrome {
+
+    public static void main(String[] args) {
+    float version = 91.0f;
+    String developer = "google";
+    boolean beta = false;
+    int YearOfRelease = 2008;
+    char ShortcutKey = 'c';
+
+   System.out.println(version+" "+developer+" "+beta+" "+YearOfRelease+" "+ShortcutKey);
+    }
+}
