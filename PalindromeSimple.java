@@ -2,7 +2,7 @@ package week1.day6;
 
 
 
-public class FibonacciSimple {
+public class PalindromeSimple {
 public static void main(String[] args) {
  int n=1771;
  int org=n;
